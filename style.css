@@ -1,0 +1,92 @@
+.bck{
+    background-image: url(https://th.bing.com/th/id/R.ff2f071301053bc657a1782825dda5d0?rik=KNTLnMOeQt2qrw&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.big{
+    margin-top: 5%;
+    display: flex;
+   /* justify-content:;*/
+   justify-content: space-around;
+}
+
+.tit{
+    padding-left: 30px;
+    padding-top: 20%;
+    font-size: 28px;
+}
+.purple{
+    background-color: rgb(0, 25, 107);
+    display: block;
+    height: 600px;
+    width: 600px;
+    color: white;
+    
+    
+}
+.sp-t{
+    padding: 30px;
+    padding-left: 20px;
+   /* flex-basis: 31%;
+    float: left;*/
+    width: 50%;
+
+
+}
+.but{
+
+    background-color: rgb(8, 151, 187);
+    color: white;
+   /* display: inline-flex;*/
+    transition: 0.5s;
+   /* padding: 30px;*/
+  margin-left: 0px;
+  padding-left: 0px;
+
+}
+.but:hover{
+    background-color: rgb(4, 49, 75);
+}
+.ay{
+    display: inline-block;
+    padding-left: 0px;
+    margin-left: 20px;
+}
+.wh{
+   background-color: white;
+   display: inline-block;
+   padding:50px 100px;
+   margin: 0%;
+   margin-left: -350px;
+  /*display: inline-flex;*/
+  width: 25%;
+  float: left;
+   /* margin-left: 50%;
+    /*flex-basis: 10%;*/
+    /*float: left;*/
+   /* width:600px ;*/
+    /*padding-left: 50%;*/
+    
+}
+h1 {
+    color: rgb(1, 11, 20);
+}
+.part{
+    color: rgb(22, 127, 219);
+
+}
+.label{
+    margin: 30px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.part2{
+    color: rgb(1, 11, 20);
+    padding-left: 20px;
+
+}
+.bott{
+   /* padding-left: 75%;*/
+  /* bottom: 0;*/
+
+}
